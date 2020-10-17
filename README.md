@@ -4,7 +4,7 @@ Website running at:
 
 https://elastic-albattani-3358f9.netlify.app/
 
-<img src="/src/img/polkaexplorer.png" width="200">
+<img src="/src/img/polkaexplorer.png" width="500">
 
 To install you can run:
 
